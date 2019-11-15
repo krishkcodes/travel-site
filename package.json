@@ -1,4 +1,3 @@
-require('.\app\assets\scripts\App.jgit stss')
 {
   "name": "travel-site",
   "version": "1.0.0",
